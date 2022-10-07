@@ -3,7 +3,7 @@
     "description": "ran_composer",
     "autoload": {
         "psr-4": {
-            "Renarddefeu\\Zoo\\": "src/"
+            "App\\":"src"
         }
     },
     "authors": [
